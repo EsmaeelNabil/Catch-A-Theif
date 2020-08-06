@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#03A9F4</color>
+    <color name="colorPrimaryDark">#1088BF</color>
+    <color name="colorAccent">#03DAC5</color>
+
+
+    <color name="status_bar_color">#03DAC5</color>
+    <color name="white">#ffffff</color>
+    <color name="details_text_color">#424D8C</color>
+    <color name="md_grey_100">#F5F5F5</color>
+    <color name="md_grey_200">#F2F2F2</color>
+    <color name="md_grey_300">#9089DAFF</color>
+    <color name="md_grey_900">#262D50</color>
+    <color name="grey_text">#828282</color>
+    <color name="black">#000000</color>
+
+
+</resources>

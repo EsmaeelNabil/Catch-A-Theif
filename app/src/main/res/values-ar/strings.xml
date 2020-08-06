@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">إمسك حرامي</string>
+    <string name="accept">موافق</string>
+    <string name="catch_a_thief">امسك حرامي</string>
+    <string name="notification_instructions">إمسك حرامي شغال دلوقتي في الخلفيه , لو حبيت تقفله افتح الابلكيشن واضغط علي زرار إنهاء</string>
+    <string name="stop">إنهاء</string>
+    <string name="start">إبدأ</string>
+    <string name="install_telegram">you don\'t have telegram installed in your device install it first</string>
+    <string name="send_using">Send Using</string>
+    <string name="change">Change</string>
+</resources>
